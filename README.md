@@ -1,2 +1,0 @@
-# FrontendMentor
-Projects
