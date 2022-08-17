@@ -123,7 +123,7 @@ p {
         background-size: 335px 220px;
         width: 335px;
         height: 220px;
-        /* margin: 0 auto; */
+    
         border-top-right-radius: 10px;
         border-bottom-left-radius: unset;
         background-repeat: no-repeat;
@@ -134,7 +134,7 @@ p {
         margin: 30px auto;
         width: 335px;
         height: 550px;
-        /* display: none; */
+       
     }
 
     .container {
