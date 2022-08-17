@@ -119,7 +119,7 @@ p {
 @media (max-width:375px) {
 
     .image {
-        background-image: url("/images/image-product-mobile.jpg");
+        background-image: url("./images/image-product-mobile.jpg");
         background-size: 335px 220px;
         width: 335px;
         height: 220px;
